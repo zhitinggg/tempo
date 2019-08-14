@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+            	background-color:#FFFEFD;
+				background-image: url(chemistry.jpg);
+            	background-repeat: no-repeat;
+            	background-position:center;
+            	background-attachment:fixed;
+            	background-size: auto;
+	            	background-size:1290px 768px;
+}
+h1   {color: darkslateblue;}
+
+
+#titlename
+{
+	color:#506A83;
+}
+
+#mainheader
+{
+            	border: none;
+            	position: static;
+            	right: 0;
+            	left: 0;
+            	bottom: 0;
+            	/* background-color:#0A3EA6; */
+            	height: 300px;
+            	width: 830px;
+            	margin: 0 auto;
+				text-align: center;
+
+}
+
+#maindata
+{
+
+     float: right;
+     border: none;
+     width: 630px;
+
+	/* overflow-y:inherit; */
+
+
+}
+
+.mainclass
+{
+            	border: none;
+            	border-color:#A0F37E;
+            	width: 830px;
+            	margin: 0 auto;
+				overflow: hidden;
+
+}
+
+#sidebar
+{
+            	float: left;
+            	border: none;
+            	border-color: #C12528;
+            	/* background-color: #BDE509; */
+            	width: 200px;
+				height: 500px;
+	/* overflow-y: auto; */
+
+
+
+}
+
+#footer1
+{
+            	float: left;
+            	right: 0;
+            	bottom: 0;
+            	left: 0;
+            	width: 700;
+            	border: solid;
+            	margin: 0 auto
+}
+
+#footer2
+{
+            	float: left;
+            	position: static;
+            	right: 0;
+            	bottom: 0;
+            	left: 0;
+            	width: 830px;
+            	border: none;
+            	margin: 0 auto;
+	font-weight: bold;
+	color: darkslateblue;
+
+}
+
+
+
+theme4.css.txt
+Displaying theme3.css.txt.
